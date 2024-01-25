@@ -1,2 +1,3 @@
-# Project exclude paths
-/target/
+pos-back.iml
+.idea
+target

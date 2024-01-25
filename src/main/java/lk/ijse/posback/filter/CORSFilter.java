@@ -18,7 +18,6 @@ public class CORSFilter extends HttpFilter {
 
     @Override
     protected void doFilter(HttpServletRequest req, HttpServletResponse res, FilterChain chain) throws IOException, ServletException {
-        logger.info("Running the CORS filter");
 
         String origin = req.getHeader("Origin");
         if (origin.contains(getServletContext().getInitParameter("Origin"))){
@@ -35,4 +34,3 @@ public class CORSFilter extends HttpFilter {
         }
     }
 }
-

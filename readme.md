@@ -25,8 +25,14 @@ system.
 3. Run Tomcat server.`version 10.1.16 or later`
 4. Deploy project artifact in Tomcat server.
    `edit configuration >  deployment > add your artifact`
+5. Use this [website](https://maneeshavr.github.io/POS-Frontend/) as Frontend.
+
+## Frontend
+
+- URL - https://maneeshavr.github.io/POS-Frontend/
+- GitHub repo - https://github.com/ManeeshaVR/POS-Frontend
 
 ## License
 
 This project is licensed under
-the [MIT LICENSE](https://github.com/ManeeshaVR/POS-Backend/master/LICENSE.md)
+the [MIT LICENSE](https://github.com/ManeeshaVR/POS-Backend/blob/master/LICENSE.md)
