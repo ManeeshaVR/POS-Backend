@@ -11,13 +11,6 @@ and order details. It is designed for ease of use in building POS applications.
 - parsson `version 1.1.2`
 - yasson `version 2.0.4`
 
-## API Documentation
-
-Explore the detailed API documentation to understand how to integrate and leverage the functionalities of the POS
-system.
-
-- [API Documentation Link]()
-
 ## How to Use
 
 1. Clone the repository. `https://github.com/ManeeshaVR/POS-Backend.git`
